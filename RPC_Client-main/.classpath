@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Chat_using_RPC_Client-main/src"/>
+	<classpathentry kind="lib" path="Chat_using_RPC_Client-main/dist/ClienteRpc.jar"/>
+	<classpathentry kind="lib" path="Chat_using_RPC_Client-main/dist/lib/xmlrpc-1.2-b1.jar"/>
+	<classpathentry kind="lib" path="Chat_using_RPC_Client-main/xmlrpc-1.2-b1.jar"/>
+	<classpathentry kind="output" path="Chat_using_RPC_Client-main/build/classes"/>
+</classpath>
